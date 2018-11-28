@@ -1,7 +1,7 @@
 function flag=LMI_ROCOND18_rem2(A,B,C,K0bar,K1bar,h)
 % This MATLAB program checks the feasibility of LMIs from Remark 2 of the paper 
-% A. Selivanov and E. Fridman, "Improved sampled-data implementation of
-% derivative-dependent control," IFAC Symposium on Robust Control Design, 2018. 
+% A. Selivanov and E. Fridman, "Improved sampled-data implementation of derivative-dependent control," 
+% in IFAC-PapersOnLine, vol. 51, no. 25, pp. 212–215, 2018. 
 
 % The program uses YALMIP parser (http://users.isy.liu.se/johanl/yalmip/)
 
