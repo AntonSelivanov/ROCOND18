@@ -1,6 +1,6 @@
 % This MATLAB program checks the feasibility of LMIs from Theorem 1 and Remark 2 of the paper 
-% A. Selivanov and E. Fridman, "Improved sampled-data implementation of
-% derivative-dependent control," IFAC Symposium on Robust Control Design, 2018. 
+% A. Selivanov and E. Fridman, "Improved sampled-data implementation of derivative-dependent control," 
+% in IFAC-PapersOnLine, vol. 51, no. 25, pp. 212–215, 2018. 
 
 %% Example 1 [Liu and Fridman (2012)]
 % System parameters 
